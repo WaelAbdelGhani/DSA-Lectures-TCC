@@ -22,7 +22,7 @@ namespace Linked_List_Homework
         // methods
         public void Add(int val)
         {
-            // TODO: add item to the end of the list
+            // TODO: add item to the end of the list 
             // consider when the list is empty
 
             // create a new node with the given data
