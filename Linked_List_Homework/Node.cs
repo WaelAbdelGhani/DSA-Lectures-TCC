@@ -11,5 +11,9 @@ namespace Linked_List_Homework
         {
             Data = val;
         }
+        public Node()
+        {
+
+        }
     }
 }
